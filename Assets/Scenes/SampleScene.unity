@@ -505,6 +505,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90f942c0df70eeb4ea2cba2b6a7d6a55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  shootPoint: {fileID: 1068691952}
+  target: {fileID: 1190906107}
+  bulletPrefab: {fileID: 301089300203266037, guid: 7f3538988ef0cab47b8bef6a655dd53d, type: 3}
 --- !u!95 &740955999
 Animator:
   serializedVersion: 7
